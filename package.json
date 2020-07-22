@@ -19,7 +19,7 @@
   "devDependencies": {
     "coveralls": "^2.11.2",
     "docco": "*",
-    "eslint": "0.21.x",
+    "eslint": "7.5.x",
     "karma": "~0.12.31",
     "karma-qunit": "~0.1.4",
     "nyc": "^2.1.3",
